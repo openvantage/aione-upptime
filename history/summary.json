@@ -16,5 +16,25 @@
     "timeMonth": 448,
     "timeYear": 448,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "AiOne API endpoint",
+    "url": "https://aebv2k5o9b.execute-api.eu-west-1.amazonaws.com/prod/",
+    "icon": "https://icons.duckduckgo.com/ip3/aebv2k5o9b.execute-api.eu-west-1.amazonaws.com.ico",
+    "slug": "ai-one-api-endpoint",
+    "status": "down",
+    "uptime": "8.26%",
+    "uptimeDay": "8.26%",
+    "uptimeWeek": "8.26%",
+    "uptimeMonth": "8.26%",
+    "uptimeYear": "8.26%",
+    "time": 60,
+    "timeDay": 60,
+    "timeWeek": 60,
+    "timeMonth": 60,
+    "timeYear": 60,
+    "dailyMinutesDown": {
+      "2023-11-03": 0
+    }
   }
 ]
