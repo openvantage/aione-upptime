@@ -18,13 +18,6 @@ sites:
             },
             "query": "mutation login($email: String!, $password: String!) {\n  login(data: {email: $email, password: $password}) {\n    jwt\n    type\n    roles {\n      id\n      permissions\n      __typename\n    }\n    userId\n    entity {\n      id\n      name\n      logo\n      description\n      primaryColor\n      secondaryColor\n      drivingUnit\n      drivingSide\n      collectionSide\n      status\n      entityType\n      metadata\n      __typename\n    }\n    __typename\n  }\n}"
             }'
-  - name: This is to test if we have discord notifications
-    url: https://aebv2k5o9b.execute-api.eu-west-1.amazonaws.com/prod
-    method: POST
-    headers:
-      - "Content-Type: application/json"
-    body: '{}'
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
