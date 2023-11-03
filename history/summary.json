@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 906,
-    "timeDay": 906,
-    "timeWeek": 906,
-    "timeMonth": 906,
-    "timeYear": 906,
+    "time": 982,
+    "timeDay": 982,
+    "timeWeek": 982,
+    "timeMonth": 982,
+    "timeYear": 982,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "This is to test if we have discord notifications",
-    "url": "https://aebv2k5o9b.execute-api.eu-west-1.amazonaws.com/prod",
-    "icon": "https://icons.duckduckgo.com/ip3/aebv2k5o9b.execute-api.eu-west-1.amazonaws.com.ico",
-    "slug": "this-is-to-test-if-we-have-discord-notifications",
-    "status": "down",
-    "uptime": "5.96%",
-    "uptimeDay": "5.96%",
-    "uptimeWeek": "5.96%",
-    "uptimeMonth": "5.96%",
-    "uptimeYear": "5.96%",
-    "time": 128,
-    "timeDay": 128,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 128,
-    "dailyMinutesDown": {
-      "2023-11-03": 0
-    }
   }
 ]
