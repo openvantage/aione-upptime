@@ -7,6 +7,7 @@ sites:
     url: https://www.omnia-ai1.com/
   - name: AiOne API endpoint
     url: https://aebv2k5o9b.execute-api.eu-west-1.amazonaws.com/prod/
+    method: POST
     headers:
       - "Content-Type: application/json"
     body: '{
