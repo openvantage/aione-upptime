@@ -9,7 +9,14 @@ sites:
     url: https://aebv2k5o9b.execute-api.eu-west-1.amazonaws.com/prod/
     headers:
       - "Content-Type: application/json"
-    body: '{}'
+    body: '{
+            "operationName": "login",
+            "variables": {
+            "email": "frikan@openvantage.co.za",
+            "password": "test123"
+            },
+            "query": "mutation login($email: String!, $password: String!) {\n  login(data: {email: $email, password: $password}) {\n    jwt\n    type\n    roles {\n      id\n      permissions\n      __typename\n    }\n    userId\n    entity {\n      id\n      name\n      logo\n      description\n      primaryColor\n      secondaryColor\n      drivingUnit\n      drivingSide\n      collectionSide\n      status\n      entityType\n      metadata\n      __typename\n    }\n    __typename\n  }\n}"
+            }'
 
 
 status-website:
