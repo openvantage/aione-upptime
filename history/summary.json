@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 404,
-    "timeDay": 404,
-    "timeWeek": 404,
-    "timeMonth": 404,
-    "timeYear": 404,
+    "time": 408,
+    "timeDay": 408,
+    "timeWeek": 408,
+    "timeMonth": 408,
+    "timeYear": 408,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 729,
-    "timeDay": 729,
-    "timeWeek": 729,
-    "timeMonth": 729,
-    "timeYear": 729,
+    "time": 875,
+    "timeDay": 875,
+    "timeWeek": 875,
+    "timeMonth": 875,
+    "timeYear": 875,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "This is to test notifications",
+    "url": "https://aebv2k5o9b.execute-api.eu-west-1.amazonaws.com/prod/",
+    "icon": "https://icons.duckduckgo.com/ip3/aebv2k5o9b.execute-api.eu-west-1.amazonaws.com.ico",
+    "slug": "this-is-to-test-notifications",
+    "status": "down",
+    "uptime": "18.38%",
+    "uptimeDay": "18.38%",
+    "uptimeWeek": "18.38%",
+    "uptimeMonth": "18.38%",
+    "uptimeYear": "18.38%",
+    "time": 334,
+    "timeDay": 334,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 334,
+    "dailyMinutesDown": {
+      "2023-11-03": 0
+    }
   }
 ]
