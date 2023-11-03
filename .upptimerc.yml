@@ -5,6 +5,11 @@ repo: aione-upptime # The name of this repository
 sites:
   - name: AiOne
     url: https://www.omnia-ai1.com/
+  - name: AiOne API endpoint
+    url: https://aebv2k5o9b.execute-api.eu-west-1.amazonaws.com/prod/
+    headers:
+      - "Content-Type: application/json"
+    body: '{}'
 
 
 status-website:
@@ -19,8 +24,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
