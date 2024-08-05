@@ -1,7 +1,7 @@
 url: https://aebv2k5o9b.execute-api.eu-west-1.amazonaws.com/prod/
-status: down
-code: 500
-responseTime: 292
-lastUpdated: 2024-08-05T18:04:00.601Z
+status: up
+code: 200
+responseTime: 1041
+lastUpdated: 2024-08-05T18:29:38.317Z
 startTime: 2023-11-03T07:55:24.705Z
 generator: Upptime <https://github.com/upptime/upptime>
